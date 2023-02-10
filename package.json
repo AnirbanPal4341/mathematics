@@ -1,5 +1,5 @@
 {
-  "name": "mathematics",
+  "name": "basicmath101",
   "version": "1.0.0",
   "description": "Basic mathematics utility functions.",
   "main": "index.js",

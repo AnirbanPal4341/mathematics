@@ -1,4 +1,4 @@
-# mathematics
+# basicmath101
 
 A npm package for basic mathematics operations.
 
