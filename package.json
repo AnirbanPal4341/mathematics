@@ -1,0 +1,14 @@
+{
+  "name": "mathematics",
+  "version": "1.0.0",
+  "description": "math util functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maths"
+  ],
+  "author": "Anirban Pal",
+  "license": "ISC"
+}
