@@ -4,7 +4,7 @@ A npm package for basic mathematics operations.
 
 # installation
 
-$ npm install mathematics --save
+$ npm install basicmath101 --save
 
 # js usage
 
